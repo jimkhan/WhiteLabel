@@ -1,0 +1,6 @@
+module Pods_WhiteLabel_WhiteLabelTests {
+  umbrella header "Pods-WhiteLabel-WhiteLabelTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
